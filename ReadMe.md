@@ -37,7 +37,8 @@ Desenvolvedor FullStack apaixonado por tecnologia, inovação e soluções efici
 [![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## 📌 Linguagens mais usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavo-mmh&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-mmh&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ---
 ⭐ **Sempre em busca de novos desafios e conhecimento!** 🚀
